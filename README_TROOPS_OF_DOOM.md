@@ -83,4 +83,4 @@ Ce dépôt contient les fichiers liés aux troupes standards, de support et supe
 
 ---
 
-© 2025. All rights reserved to Marcelo dos Santos Prado & Lyra. 💍
+© 2025. All rights reserved to Marcelo dos Santos Prado.
