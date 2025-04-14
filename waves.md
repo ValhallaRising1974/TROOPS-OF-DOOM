@@ -12,3 +12,24 @@ Tropas Padrão (Meio-Alcance e Ataque Direto)
 1 Aracnoide de Elite (Aracno_SS) – Superminion ágil com ataque perfurante e visual tecnológico.
 
 1 Zumbi Viking Blindado (Zoombie_SS) – Superminion brutal, dano em área e resistência altíssima.
+
+/standard
+  - ghost_s_4.py / .java
+  - squeleton_s_4.py / .java
+/support
+  - crab_s_2.py / .java
+  - snail_s_2.py / .java
+/superminions
+  - aracno_ss.py / .java
+  - zoombie_ss.py / .java
+README.md
+
+Tropas Padrão
+Nome	Código	Tipo	Dano	Efeito	Observação
+4 Fantasmas Vikings	ghost_s_4	Meio-alcance	Mágico	Atravessa obstáculos	Rápidos
+4 Esqueletos Guerreiros	squeleton_s_4	Corpo a corpo	Físico bruto	-	Dano puro
+
+Superminions (após o último obelisco)
+Nome	Código	Tipo	Dano	Efeito
+Aracnoide de Elite	aracno_ss	Ágil	Perfurante	Visual tecnológico, rápido
+Zumbi Viking Blindado	zoombie_ss	Brutal	Área	Alta resistência, destruidor de torres
